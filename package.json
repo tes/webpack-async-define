@@ -9,7 +9,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "async-define": "^3.2.5",
+    "async-define": "^3.2.6",
     "webpack": "^5.24.4"
   },
   "keywords": [
