@@ -1,6 +1,6 @@
 {
   "name": "webpack-async-define",
-  "version": "1.1.8",
+  "version": "2.0.0",
   "description": "A webpack plugin for async-define",
   "main": "index.js",
   "scripts": {},
@@ -10,8 +10,7 @@
   "devDependencies": {},
   "dependencies": {
     "async-define": "^3.2.5",
-    "webpack": "^4.46.0",
-    "webpack-core": "^0.6.9"
+    "webpack": "^5.24.4"
   },
   "keywords": [
     "webpack",
